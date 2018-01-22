@@ -1,1 +1,2 @@
-# practiceLogin-Register-Swift
+作为练习swift的计划
+用swift语言实现简单的登录、注册页面
